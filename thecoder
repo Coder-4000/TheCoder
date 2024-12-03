@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coder</title>
+    <link rel="stylesheet" href="css/style.css">
+<script src="script.js"></script>
+</head>
+<body>
+   <header class="header">
+    <h1 class="header__h1">CoderQuest.</h1>
+    <nav>
+        <ul  class="header__nav">
+            
+            <li><a href="home.html">Home</a></li>
+            <li><a href="conreal.html">Contact</a></li>
+            <li><a href="Services.html">Services</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+   </header> 
+  <section>
+    <h2 class="center">Welcome.</h2>
+    <img class="center" src="img/black-blue-metallic-background_1009245-1374.jpg" alt="Welcome" part="Welcome">
+
+ 
+  </section>
+    <p>This is a training page page that i trian my coding skills</p>
+    <p>so that is why it is called the</p>
+    <p class="">The TRAINING PAGE</p>
+  </section>
+  <section class="center">
+    <h3>About the page</h3>
+    <p>This page tells you more about the traing page it was created by Aroh Rain in the the Year 2024.</p>
+    <p>Enjoy this page as good as you like.</p>
+  </section>
+  <section class="center">
+    <h3 class="center">Enjoy</h3>
+    <p>Enjoy the game below. Maybe you would enjoy it.</p>
+    <p>Enjoy th Game.</p>
+    <a href="ress.html">Guess My Number</a>
+  
+  </section>
+ </body>
+</html>
